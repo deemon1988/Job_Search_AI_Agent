@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "job-search-agent": {
+      "command": "python",
+      "args": [
+        "f:\\Downloads\\AI - Agents\\Job_Search_AI_Agent\\mcp_server.py"
+      ],
+      "cwd": "f:\\Downloads\\AI - Agents\\Job_Search_AI_Agent",
+      "env": {
+        "PYTHONIOENCODING": "utf-8",
+        "PYTHONUTF8": "1"
+      }
+    }
+  }
+}
